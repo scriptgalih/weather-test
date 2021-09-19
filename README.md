@@ -1,7 +1,7 @@
-weather test
+# weather test
 
-#install modules
+## install modules
 npm i body-parser bootstrap cookie-parser ejs express google-auth-library request
 
-#run
+## run
 npm run dev
